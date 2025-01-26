@@ -1,3 +1,6 @@
+# [gitlab](https://gitlab.com/planverse)을 이용하는 방향으로 결정
+
+
 ![Node.Js](https://img.shields.io/badge/v18-000000?logo=nodedotjs&label=Node.js)   
 ![Next.Js](https://img.shields.io/badge/v15.0.2-000000?logo=nextdotjs&label=Next.js)   
 ![React.js](https://img.shields.io/badge/v18.3.1-000000?logo=react&label=React.js)  
